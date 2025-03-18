@@ -1,0 +1,501 @@
+Date,Order ID,Customer Name,Product Category,Product Name,Quantity Sold,Unit Price,Total Revenue,Payment Method,Delivery Status
+2024-09-03,ORD10000,Julia Adams,Clothing,Jeans,5,493.44,2467.2,Cash,Delivered
+2024-12-19,ORD10001,George Brown,Books,Non-Fiction,4,246.75,987,PayPal,Delivered
+2025-01-26,ORD10002,Julia Adams,Beauty,Perfume,5,336.56,1682.8,PayPal,Delivered
+2024-11-02,ORD10003,Ian Black,Clothing,Jacket,5,193.58,967.9,Cash,Delivered
+2024-10-03,ORD10004,Charlie Davis,Beauty,Lipstick,5,282.25,1411.25,Credit Card,Delivered
+2024-11-20,ORD10005,Hannah White,Electronics,Smartwatch,3,483.36,1450.08,Credit Card,Delivered
+2024-11-02,ORD10006,Ian Black,Beauty,Lipstick,1,134.96,134.96,Credit Card,Delivered
+2024-10-14,ORD10007,Ian Black,Electronics,Smartphone,1,425.87,425.87,PayPal,Cancelled
+2025-01-11,ORD10008,Bob Smith,Clothing,Sneakers,2,315.89,631.78,PayPal,Delivered
+2025-02-20,ORD10009,Fiona Green,Home Appliances,Microwave,5,226.46,1132.3,PayPal,Delivered
+2025-01-05,ORD10010,Charlie Davis,Home Appliances,Microwave,4,71.73,286.92,Cash,Pending
+2025-02-20,ORD10011,George Brown,Home Appliances,Vacuum Cleaner,2,314.05,628.1,PayPal,Pending
+2025-02-12,ORD10012,Julia Adams,Beauty,Lipstick,4,337.47,1349.88,Cash,Cancelled
+2024-11-28,ORD10013,Alice Johnson,Books,Non-Fiction,2,364.34,728.68,Cash,Delivered
+2025-01-29,ORD10014,Fiona Green,Electronics,Smartphone,2,491.89,983.78,Cash,Delivered
+2025-01-12,ORD10015,Alice Johnson,Beauty,Perfume,5,24.33,121.65,PayPal,Delivered
+2024-08-30,ORD10016,Diana Lee,Beauty,Lipstick,2,60.22,120.44,PayPal,Delivered
+2024-09-21,ORD10017,Fiona Green,Home Appliances,Vacuum Cleaner,2,228.58,457.16,PayPal,Delivered
+2024-11-20,ORD10018,Charlie Davis,Beauty,Lipstick,5,481.21,2406.05,Credit Card,Delivered
+2025-01-12,ORD10019,Edward Kim,Beauty,Foundation,4,142.51,570.04,PayPal,Delivered
+2024-12-31,ORD10020,Hannah White,Books,Non-Fiction,3,108.63,325.89,PayPal,Delivered
+2024-11-06,ORD10021,Fiona Green,Home Appliances,Microwave,2,348.26,696.52,Cash,Delivered
+2024-12-07,ORD10022,Edward Kim,Beauty,Eyeliner,5,110.71,553.55,Cash,Delivered
+2025-02-01,ORD10023,Julia Adams,Beauty,Eyeliner,2,375.58,751.16,PayPal,Pending
+2024-11-18,ORD10024,George Brown,Clothing,T-Shirt,4,387.16,1548.64,Cash,Delivered
+2024-12-02,ORD10025,George Brown,Home Appliances,Vacuum Cleaner,1,253.71,253.71,Credit Card,Delivered
+2024-10-23,ORD10026,Bob Smith,Beauty,Perfume,4,411.66,1646.64,Cash,Delivered
+2025-02-20,ORD10027,Alice Johnson,Home Appliances,Microwave,3,496.56,1489.68,Cash,Cancelled
+2025-01-22,ORD10028,Ian Black,Books,Biography,1,447.52,447.52,Cash,Pending
+2025-02-04,ORD10029,George Brown,Electronics,Headphones,5,240.84,1204.2,PayPal,Delivered
+2024-09-06,ORD10030,Fiona Green,Clothing,Sneakers,2,216.98,433.96,Cash,Pending
+2025-02-13,ORD10031,George Brown,Books,Biography,4,479.92,1919.68,Cash,Delivered
+2024-12-23,ORD10032,Charlie Davis,Books,Comics,3,227.42,682.26,Cash,Delivered
+2024-10-12,ORD10033,Diana Lee,Books,Biography,5,31.48,157.4,Cash,Delivered
+2024-09-04,ORD10034,Charlie Davis,Electronics,Smartphone,3,419.69,1259.07,PayPal,Delivered
+2024-10-17,ORD10035,Fiona Green,Home Appliances,Refrigerator,1,477.39,477.39,PayPal,Delivered
+2025-01-16,ORD10036,Bob Smith,Electronics,Headphones,4,285.25,1141,Credit Card,Pending
+2024-10-16,ORD10037,Alice Johnson,Beauty,Eyeliner,4,51.79,207.16,Cash,Delivered
+2025-01-14,ORD10038,Bob Smith,Electronics,Smartphone,2,431.47,862.94,Credit Card,Delivered
+2025-02-23,ORD10039,Julia Adams,Beauty,Lipstick,1,46.21,46.21,Credit Card,Delivered
+2024-09-29,ORD10040,Fiona Green,Beauty,Foundation,5,102.53,512.65,PayPal,Delivered
+2025-01-11,ORD10041,Diana Lee,Clothing,T-Shirt,1,479.68,479.68,Credit Card,Pending
+2024-11-04,ORD10042,George Brown,Electronics,Laptop,4,354.78,1419.12,PayPal,Delivered
+2024-09-14,ORD10043,Fiona Green,Electronics,Smartwatch,3,225.46,676.38,PayPal,Delivered
+2024-09-15,ORD10044,Julia Adams,Clothing,Sneakers,5,478.99,2394.95,Credit Card,Delivered
+2024-11-25,ORD10045,Edward Kim,Electronics,Smartphone,3,459.38,1378.14,PayPal,Delivered
+2024-09-02,ORD10046,Charlie Davis,Beauty,Foundation,2,443.55,887.1,Credit Card,Delivered
+2024-09-12,ORD10047,Ian Black,Electronics,Smartphone,4,384.23,1536.92,PayPal,Delivered
+2024-10-23,ORD10048,Hannah White,Clothing,Sneakers,5,106.42,532.1,PayPal,Delivered
+2025-02-26,ORD10049,Edward Kim,Beauty,Perfume,1,426.23,426.23,PayPal,Delivered
+2024-12-22,ORD10050,Ian Black,Books,Comics,1,115.71,115.71,Credit Card,Delivered
+2024-12-17,ORD10051,Diana Lee,Electronics,Laptop,4,361.29,1445.16,Cash,Pending
+2024-12-04,ORD10052,Fiona Green,Beauty,Foundation,2,100.25,200.5,Cash,Delivered
+2025-01-28,ORD10053,Ian Black,Beauty,Eyeliner,3,363.81,1091.43,Credit Card,Delivered
+2025-02-17,ORD10054,Edward Kim,Clothing,Sneakers,3,434.01,1302.03,Credit Card,Delivered
+2024-10-06,ORD10055,Julia Adams,Electronics,Smartphone,1,277.85,277.85,PayPal,Pending
+2025-01-06,ORD10056,Diana Lee,Home Appliances,Vacuum Cleaner,5,393.81,1969.05,Cash,Delivered
+2024-12-09,ORD10057,George Brown,Beauty,Eyeliner,4,450.45,1801.8,Cash,Delivered
+2024-12-01,ORD10058,George Brown,Clothing,T-Shirt,2,344.95,689.9,Cash,Delivered
+2025-02-04,ORD10059,Diana Lee,Home Appliances,Air Fryer,3,437.75,1313.25,Credit Card,Delivered
+2024-09-25,ORD10060,Charlie Davis,Clothing,Jacket,3,383.58,1150.74,Cash,Delivered
+2025-01-07,ORD10061,Bob Smith,Beauty,Lipstick,2,308.19,616.38,Cash,Pending
+2025-01-03,ORD10062,Charlie Davis,Electronics,Smartphone,4,434.54,1738.16,PayPal,Cancelled
+2024-11-16,ORD10063,Ian Black,Books,Fiction,2,162.99,325.98,Cash,Delivered
+2024-09-06,ORD10064,Ian Black,Clothing,Jeans,3,473.84,1421.52,PayPal,Pending
+2025-01-21,ORD10065,Charlie Davis,Beauty,Lipstick,3,446.27,1338.81,Credit Card,Delivered
+2025-01-13,ORD10066,Fiona Green,Beauty,Perfume,2,76.71,153.42,Credit Card,Delivered
+2024-12-13,ORD10067,Charlie Davis,Books,Non-Fiction,4,144.56,578.24,PayPal,Delivered
+2025-01-18,ORD10068,Julia Adams,Books,Comics,3,357.42,1072.26,PayPal,Delivered
+2025-01-03,ORD10069,Ian Black,Home Appliances,Microwave,4,146.44,585.76,PayPal,Delivered
+2024-09-22,ORD10070,Edward Kim,Home Appliances,Microwave,4,31.3,125.2,Cash,Cancelled
+2024-11-03,ORD10071,Alice Johnson,Books,Fiction,5,60.85,304.25,Credit Card,Delivered
+2025-02-05,ORD10072,Fiona Green,Beauty,Lipstick,4,369.77,1479.08,Cash,Delivered
+2025-01-15,ORD10073,Julia Adams,Books,Non-Fiction,2,126.19,252.38,Cash,Delivered
+2024-11-14,ORD10074,Hannah White,Beauty,Eyeliner,5,355.78,1778.9,PayPal,Delivered
+2025-02-10,ORD10075,Diana Lee,Electronics,Smartphone,1,163.32,163.32,PayPal,Delivered
+2024-11-25,ORD10076,Hannah White,Electronics,Laptop,3,477.39,1432.17,Credit Card,Cancelled
+2024-11-23,ORD10077,Charlie Davis,Books,Comics,3,197.38,592.14,PayPal,Delivered
+2025-02-20,ORD10078,Diana Lee,Clothing,Jeans,4,263.99,1055.96,Credit Card,Delivered
+2024-10-14,ORD10079,Charlie Davis,Clothing,Sneakers,3,400.24,1200.72,PayPal,Delivered
+2024-12-07,ORD10080,Diana Lee,Clothing,Jeans,3,464.48,1393.44,PayPal,Delivered
+2024-09-05,ORD10081,Charlie Davis,Electronics,Smartwatch,3,125.6,376.8,PayPal,Delivered
+2025-01-01,ORD10082,Edward Kim,Clothing,Sneakers,3,146.99,440.97,PayPal,Delivered
+2024-12-01,ORD10083,Charlie Davis,Home Appliances,Refrigerator,4,377.34,1509.36,PayPal,Delivered
+2024-11-28,ORD10084,George Brown,Clothing,T-Shirt,5,309.51,1547.55,PayPal,Delivered
+2024-09-28,ORD10085,George Brown,Clothing,Jeans,4,426.67,1706.68,Cash,Cancelled
+2025-01-28,ORD10086,Diana Lee,Electronics,Headphones,3,13.85,41.55,Cash,Pending
+2024-11-05,ORD10087,Hannah White,Beauty,Eyeliner,4,195.58,782.32,Credit Card,Delivered
+2024-12-27,ORD10088,Fiona Green,Electronics,Laptop,4,310.07,1240.28,PayPal,Pending
+2025-01-29,ORD10089,Diana Lee,Beauty,Perfume,2,297.9,595.8,Credit Card,Delivered
+2024-11-15,ORD10090,Alice Johnson,Electronics,Laptop,5,442.4,2212,Cash,Delivered
+2025-02-04,ORD10091,Fiona Green,Beauty,Foundation,2,361.73,723.46,Cash,Delivered
+2024-11-21,ORD10092,Hannah White,Electronics,Smartwatch,4,14.35,57.4,Credit Card,Delivered
+2024-09-21,ORD10093,Ian Black,Electronics,Laptop,1,253.73,253.73,PayPal,Delivered
+2024-09-04,ORD10094,Diana Lee,Beauty,Eyeliner,2,24.52,49.04,PayPal,Delivered
+2024-12-11,ORD10095,Fiona Green,Beauty,Eyeliner,4,136,544,Credit Card,Delivered
+2024-11-16,ORD10096,Julia Adams,Electronics,Laptop,5,286.97,1434.85,Cash,Cancelled
+2025-01-02,ORD10097,Edward Kim,Home Appliances,Microwave,5,331.58,1657.9,Credit Card,Delivered
+2025-02-06,ORD10098,Hannah White,Books,Non-Fiction,5,160.63,803.15,Credit Card,Delivered
+2025-02-14,ORD10099,Fiona Green,Books,Non-Fiction,5,433.93,2169.65,PayPal,Delivered
+2024-09-04,ORD10100,Bob Smith,Books,Fiction,4,49.43,197.72,PayPal,Delivered
+2024-11-26,ORD10101,Ian Black,Books,Comics,2,110.04,220.08,PayPal,Delivered
+2024-12-16,ORD10102,Alice Johnson,Books,Non-Fiction,5,423.77,2118.85,PayPal,Delivered
+2024-09-19,ORD10103,Charlie Davis,Home Appliances,Refrigerator,5,17.63,88.15,Cash,Pending
+2025-01-31,ORD10104,Diana Lee,Home Appliances,Microwave,3,368.38,1105.14,Credit Card,Delivered
+2024-12-30,ORD10105,Hannah White,Beauty,Eyeliner,4,313.21,1252.84,Cash,Delivered
+2025-01-12,ORD10106,Fiona Green,Electronics,Smartphone,4,165.61,662.44,Credit Card,Pending
+2024-09-13,ORD10107,Alice Johnson,Books,Non-Fiction,5,110.41,552.05,Cash,Delivered
+2024-10-21,ORD10108,Edward Kim,Books,Non-Fiction,3,272.87,818.61,PayPal,Cancelled
+2024-12-29,ORD10109,Julia Adams,Electronics,Headphones,4,280.16,1120.64,Credit Card,Pending
+2024-12-01,ORD10110,Bob Smith,Beauty,Foundation,1,410.98,410.98,PayPal,Pending
+2024-12-23,ORD10111,Edward Kim,Books,Comics,2,150.2,300.4,PayPal,Delivered
+2024-12-17,ORD10112,Charlie Davis,Clothing,Jeans,3,303.44,910.32,PayPal,Delivered
+2024-12-26,ORD10113,Alice Johnson,Beauty,Foundation,3,31.87,95.61,Credit Card,Delivered
+2024-10-18,ORD10114,Ian Black,Electronics,Headphones,4,250.61,1002.44,Credit Card,Delivered
+2024-10-04,ORD10115,Alice Johnson,Clothing,T-Shirt,5,399.66,1998.3,Credit Card,Delivered
+2024-09-23,ORD10116,Edward Kim,Clothing,Jacket,2,373.91,747.82,Cash,Delivered
+2024-11-24,ORD10117,Diana Lee,Electronics,Laptop,4,253.74,1014.96,Credit Card,Delivered
+2024-10-09,ORD10118,George Brown,Beauty,Eyeliner,3,123.42,370.26,PayPal,Pending
+2024-12-11,ORD10119,Bob Smith,Beauty,Eyeliner,1,50.55,50.55,Cash,Cancelled
+2025-01-14,ORD10120,Charlie Davis,Clothing,Sneakers,3,79.42,238.26,Cash,Delivered
+2025-01-17,ORD10121,Ian Black,Books,Fiction,4,335.2,1340.8,PayPal,Delivered
+2025-01-08,ORD10122,George Brown,Electronics,Smartphone,3,377,1131,PayPal,Delivered
+2024-10-19,ORD10123,Bob Smith,Books,Fiction,4,356.09,1424.36,PayPal,Delivered
+2024-12-15,ORD10124,Hannah White,Clothing,Jacket,4,146.09,584.36,Credit Card,Delivered
+2024-10-13,ORD10125,Alice Johnson,Books,Comics,4,478.73,1914.92,PayPal,Delivered
+2024-10-01,ORD10126,Edward Kim,Books,Non-Fiction,1,492.58,492.58,PayPal,Delivered
+2024-12-23,ORD10127,George Brown,Clothing,Sneakers,1,219.16,219.16,PayPal,Delivered
+2024-12-01,ORD10128,Ian Black,Books,Fiction,5,119.15,595.75,Cash,Delivered
+2024-10-26,ORD10129,George Brown,Electronics,Smartwatch,1,416.68,416.68,PayPal,Pending
+2024-12-03,ORD10130,George Brown,Books,Non-Fiction,4,178.6,714.4,PayPal,Delivered
+2025-01-27,ORD10131,Hannah White,Home Appliances,Vacuum Cleaner,1,311.67,311.67,PayPal,Delivered
+2024-12-24,ORD10132,George Brown,Electronics,Laptop,4,33.65,134.6,Cash,Delivered
+2024-12-06,ORD10133,Charlie Davis,Home Appliances,Vacuum Cleaner,5,247.18,1235.9,Cash,Delivered
+2025-02-05,ORD10134,Alice Johnson,Electronics,Smartphone,4,331.39,1325.56,PayPal,Delivered
+2024-10-31,ORD10135,Edward Kim,Home Appliances,Refrigerator,5,15.56,77.8,Cash,Delivered
+2024-10-23,ORD10136,Bob Smith,Home Appliances,Vacuum Cleaner,4,356.12,1424.48,Cash,Pending
+2025-02-23,ORD10137,Diana Lee,Home Appliances,Air Fryer,1,157.4,157.4,Credit Card,Delivered
+2024-11-07,ORD10138,Fiona Green,Home Appliances,Air Fryer,5,321.3,1606.5,Credit Card,Delivered
+2024-12-29,ORD10139,Julia Adams,Electronics,Headphones,5,363.08,1815.4,Cash,Delivered
+2024-10-27,ORD10140,Diana Lee,Clothing,Sneakers,1,235.05,235.05,Credit Card,Pending
+2024-10-05,ORD10141,Ian Black,Home Appliances,Microwave,3,280.48,841.44,PayPal,Pending
+2025-01-21,ORD10142,Julia Adams,Clothing,T-Shirt,5,106.9,534.5,Cash,Delivered
+2025-02-02,ORD10143,Ian Black,Beauty,Perfume,1,324.27,324.27,PayPal,Pending
+2024-12-27,ORD10144,Charlie Davis,Electronics,Smartphone,1,428.88,428.88,Cash,Cancelled
+2025-01-17,ORD10145,Julia Adams,Home Appliances,Microwave,2,311.97,623.94,PayPal,Delivered
+2024-11-06,ORD10146,Edward Kim,Electronics,Smartwatch,2,228.79,457.58,Cash,Cancelled
+2024-10-08,ORD10147,Fiona Green,Clothing,Jeans,1,399.68,399.68,Credit Card,Pending
+2024-09-25,ORD10148,Edward Kim,Beauty,Eyeliner,3,170.09,510.27,PayPal,Delivered
+2025-01-10,ORD10149,Bob Smith,Books,Fiction,5,208.98,1044.9,Cash,Pending
+2025-02-08,ORD10150,Diana Lee,Beauty,Eyeliner,1,138.6,138.6,PayPal,Delivered
+2024-09-26,ORD10151,Edward Kim,Books,Biography,2,132.07,264.14,PayPal,Delivered
+2024-12-25,ORD10152,Hannah White,Beauty,Eyeliner,1,490.86,490.86,Credit Card,Cancelled
+2024-12-30,ORD10153,Julia Adams,Books,Comics,3,137.37,412.11,Cash,Delivered
+2024-12-20,ORD10154,Fiona Green,Clothing,Jeans,3,339.5,1018.5,Cash,Pending
+2025-02-18,ORD10155,Julia Adams,Beauty,Foundation,2,386.59,773.18,Credit Card,Delivered
+2024-10-02,ORD10156,George Brown,Beauty,Lipstick,3,158.59,475.77,Cash,Delivered
+2024-10-25,ORD10157,Ian Black,Beauty,Perfume,3,126.44,379.32,Cash,Delivered
+2025-02-23,ORD10158,Edward Kim,Books,Biography,5,278.15,1390.75,PayPal,Delivered
+2024-10-12,ORD10159,George Brown,Electronics,Headphones,1,434.78,434.78,Credit Card,Delivered
+2024-09-30,ORD10160,Alice Johnson,Books,Biography,4,61.94,247.76,Credit Card,Cancelled
+2024-12-24,ORD10161,Edward Kim,Beauty,Foundation,3,110.13,330.39,PayPal,Delivered
+2024-11-19,ORD10162,Hannah White,Electronics,Smartwatch,2,251.81,503.62,Cash,Delivered
+2025-02-04,ORD10163,Edward Kim,Books,Comics,1,371.02,371.02,PayPal,Delivered
+2024-12-27,ORD10164,George Brown,Books,Comics,3,160.56,481.68,Cash,Delivered
+2024-12-10,ORD10165,George Brown,Beauty,Perfume,5,456.91,2284.55,Credit Card,Delivered
+2024-12-12,ORD10166,Diana Lee,Home Appliances,Refrigerator,5,280.63,1403.15,Cash,Delivered
+2024-09-11,ORD10167,Hannah White,Electronics,Laptop,3,393.8,1181.4,PayPal,Pending
+2024-12-08,ORD10168,Diana Lee,Beauty,Foundation,2,448.96,897.92,Credit Card,Delivered
+2024-09-16,ORD10169,Edward Kim,Home Appliances,Air Fryer,5,97.22,486.1,PayPal,Pending
+2024-11-15,ORD10170,George Brown,Beauty,Foundation,2,386.91,773.82,Cash,Pending
+2024-09-05,ORD10171,Ian Black,Clothing,Jacket,4,352.34,1409.36,PayPal,Delivered
+2024-11-01,ORD10172,Edward Kim,Electronics,Smartwatch,3,463.52,1390.56,Cash,Delivered
+2024-11-02,ORD10173,Hannah White,Clothing,Jacket,3,317.22,951.66,Cash,Delivered
+2025-01-31,ORD10174,Julia Adams,Electronics,Smartwatch,4,312.85,1251.4,Cash,Delivered
+2025-02-04,ORD10175,Diana Lee,Beauty,Lipstick,5,492.95,2464.75,Cash,Delivered
+2025-02-06,ORD10176,Julia Adams,Beauty,Foundation,5,91.1,455.5,PayPal,Delivered
+2024-09-26,ORD10177,Charlie Davis,Clothing,Jeans,4,212.19,848.76,Cash,Delivered
+2024-12-10,ORD10178,Charlie Davis,Clothing,Jeans,4,19.68,78.72,Credit Card,Pending
+2025-01-17,ORD10179,George Brown,Electronics,Laptop,1,275.09,275.09,Credit Card,Delivered
+2024-09-13,ORD10180,Fiona Green,Clothing,Jacket,5,123.49,617.45,Cash,Delivered
+2024-11-28,ORD10181,Charlie Davis,Electronics,Smartphone,1,256.02,256.02,PayPal,Delivered
+2025-02-22,ORD10182,Fiona Green,Books,Comics,2,196.06,392.12,Cash,Delivered
+2024-12-28,ORD10183,Fiona Green,Books,Fiction,1,117.75,117.75,Cash,Delivered
+2024-11-19,ORD10184,Bob Smith,Clothing,T-Shirt,2,59.49,118.98,Credit Card,Pending
+2024-12-19,ORD10185,Fiona Green,Books,Non-Fiction,2,185.12,370.24,Cash,Delivered
+2025-01-16,ORD10186,Bob Smith,Beauty,Foundation,5,270.86,1354.3,Credit Card,Delivered
+2025-02-06,ORD10187,George Brown,Electronics,Laptop,5,362.21,1811.05,Cash,Delivered
+2024-10-26,ORD10188,Diana Lee,Home Appliances,Microwave,5,476.78,2383.9,Cash,Delivered
+2024-09-16,ORD10189,Fiona Green,Clothing,Jacket,2,474.42,948.84,Cash,Delivered
+2025-01-25,ORD10190,Edward Kim,Clothing,Sneakers,2,97.77,195.54,Credit Card,Delivered
+2024-12-18,ORD10191,Julia Adams,Clothing,Jeans,1,456.13,456.13,Credit Card,Delivered
+2024-09-23,ORD10192,Edward Kim,Electronics,Smartphone,1,165.13,165.13,Cash,Cancelled
+2024-10-08,ORD10193,Alice Johnson,Home Appliances,Refrigerator,4,255.61,1022.44,PayPal,Delivered
+2025-02-07,ORD10194,Diana Lee,Beauty,Lipstick,5,64.38,321.9,Credit Card,Pending
+2024-10-23,ORD10195,Fiona Green,Electronics,Headphones,5,197.1,985.5,Cash,Delivered
+2024-10-19,ORD10196,Edward Kim,Home Appliances,Air Fryer,4,116.73,466.92,Credit Card,Delivered
+2024-11-20,ORD10197,Ian Black,Clothing,Sneakers,2,379.76,759.52,Credit Card,Delivered
+2025-01-17,ORD10198,Ian Black,Beauty,Lipstick,4,231.01,924.04,PayPal,Delivered
+2024-11-12,ORD10199,Bob Smith,Clothing,Sneakers,1,348.71,348.71,Cash,Delivered
+2024-12-07,ORD10200,Julia Adams,Clothing,Sneakers,3,281.77,845.31,Cash,Delivered
+2024-10-07,ORD10201,Diana Lee,Electronics,Smartwatch,1,184.16,184.16,Cash,Pending
+2024-10-19,ORD10202,Hannah White,Clothing,Sneakers,5,123.32,616.6,Cash,Pending
+2024-12-17,ORD10203,Diana Lee,Beauty,Foundation,5,163.38,816.9,PayPal,Delivered
+2024-12-19,ORD10204,Bob Smith,Electronics,Laptop,1,403.53,403.53,Credit Card,Delivered
+2024-10-07,ORD10205,Charlie Davis,Beauty,Eyeliner,3,29.37,88.11,Credit Card,Delivered
+2024-10-15,ORD10206,Ian Black,Home Appliances,Air Fryer,3,414.93,1244.79,Cash,Pending
+2025-02-19,ORD10207,Hannah White,Books,Fiction,4,221.05,884.2,Credit Card,Delivered
+2025-02-26,ORD10208,Diana Lee,Electronics,Smartwatch,1,24.38,24.38,Credit Card,Delivered
+2024-12-25,ORD10209,George Brown,Electronics,Headphones,4,479.41,1917.64,Cash,Delivered
+2025-01-28,ORD10210,Ian Black,Clothing,Sneakers,1,462.87,462.87,Credit Card,Delivered
+2024-12-20,ORD10211,Diana Lee,Beauty,Foundation,3,413.88,1241.64,Cash,Pending
+2024-09-29,ORD10212,Charlie Davis,Beauty,Lipstick,5,310.84,1554.2,PayPal,Pending
+2025-02-24,ORD10213,Bob Smith,Home Appliances,Microwave,2,370.41,740.82,PayPal,Delivered
+2024-10-18,ORD10214,Charlie Davis,Clothing,T-Shirt,5,293.74,1468.7,Cash,Delivered
+2024-10-12,ORD10215,Fiona Green,Books,Biography,3,58.32,174.96,Cash,Delivered
+2025-01-31,ORD10216,Edward Kim,Beauty,Lipstick,5,173.36,866.8,Credit Card,Delivered
+2025-01-09,ORD10217,Julia Adams,Electronics,Laptop,1,359,359,Credit Card,Delivered
+2024-11-07,ORD10218,Ian Black,Books,Fiction,3,22.62,67.86,PayPal,Delivered
+2025-01-25,ORD10219,Julia Adams,Electronics,Headphones,2,214.34,428.68,PayPal,Delivered
+2025-01-29,ORD10220,George Brown,Books,Non-Fiction,2,407.4,814.8,PayPal,Pending
+2024-10-25,ORD10221,Ian Black,Home Appliances,Vacuum Cleaner,2,486.82,973.64,Credit Card,Delivered
+2024-09-22,ORD10222,Fiona Green,Beauty,Foundation,2,126.75,253.5,Cash,Delivered
+2024-12-26,ORD10223,Bob Smith,Home Appliances,Vacuum Cleaner,5,397.85,1989.25,Cash,Delivered
+2025-02-22,ORD10224,Hannah White,Electronics,Smartphone,4,167.13,668.52,PayPal,Delivered
+2024-11-28,ORD10225,Ian Black,Home Appliances,Refrigerator,2,132.35,264.7,PayPal,Delivered
+2025-02-16,ORD10226,Julia Adams,Electronics,Laptop,4,53.87,215.48,Credit Card,Pending
+2024-12-20,ORD10227,Charlie Davis,Clothing,Jacket,3,159.76,479.28,Cash,Delivered
+2024-12-02,ORD10228,Ian Black,Home Appliances,Microwave,3,156.94,470.82,Cash,Pending
+2024-09-18,ORD10229,George Brown,Clothing,Jeans,3,463.79,1391.37,Cash,Delivered
+2024-12-21,ORD10230,Edward Kim,Electronics,Headphones,3,192.86,578.58,Cash,Delivered
+2024-11-12,ORD10231,George Brown,Beauty,Eyeliner,3,135.03,405.09,Cash,Pending
+2024-09-19,ORD10232,Charlie Davis,Books,Comics,1,260.85,260.85,PayPal,Cancelled
+2024-12-05,ORD10233,Hannah White,Clothing,T-Shirt,2,325.07,650.14,PayPal,Cancelled
+2024-10-10,ORD10234,George Brown,Home Appliances,Microwave,4,146.92,587.68,PayPal,Delivered
+2025-02-18,ORD10235,Hannah White,Beauty,Foundation,1,117.04,117.04,PayPal,Pending
+2025-01-19,ORD10236,Julia Adams,Books,Biography,5,356.54,1782.7,PayPal,Pending
+2024-11-15,ORD10237,Fiona Green,Clothing,T-Shirt,4,203.92,815.68,PayPal,Delivered
+2024-12-24,ORD10238,Hannah White,Electronics,Smartwatch,2,188.53,377.06,PayPal,Delivered
+2024-12-22,ORD10239,Edward Kim,Books,Fiction,5,89.16,445.8,PayPal,Delivered
+2025-02-04,ORD10240,George Brown,Home Appliances,Microwave,5,158.41,792.05,PayPal,Delivered
+2024-10-06,ORD10241,Hannah White,Home Appliances,Air Fryer,5,293.13,1465.65,Credit Card,Delivered
+2024-11-24,ORD10242,Ian Black,Clothing,Sneakers,4,338.32,1353.28,Cash,Delivered
+2024-10-04,ORD10243,Julia Adams,Electronics,Laptop,3,249,747,PayPal,Delivered
+2025-02-26,ORD10244,Alice Johnson,Clothing,Jeans,1,322.71,322.71,Credit Card,Delivered
+2025-01-14,ORD10245,Alice Johnson,Books,Fiction,4,336.05,1344.2,Credit Card,Delivered
+2024-10-26,ORD10246,Ian Black,Beauty,Foundation,3,434.08,1302.24,Cash,Pending
+2025-02-11,ORD10247,Fiona Green,Home Appliances,Refrigerator,5,89.05,445.25,Credit Card,Delivered
+2024-09-16,ORD10248,Edward Kim,Electronics,Laptop,1,349.1,349.1,Credit Card,Delivered
+2024-10-08,ORD10249,Diana Lee,Clothing,Sneakers,5,60.65,303.25,PayPal,Delivered
+2025-01-20,ORD10250,Diana Lee,Books,Non-Fiction,5,431.69,2158.45,Cash,Delivered
+2024-09-19,ORD10251,Fiona Green,Clothing,T-Shirt,3,353.39,1060.17,PayPal,Delivered
+2024-12-28,ORD10252,Charlie Davis,Electronics,Headphones,5,459.6,2298,Credit Card,Delivered
+2025-02-17,ORD10253,Ian Black,Books,Comics,2,99.47,198.94,Credit Card,Pending
+2024-11-17,ORD10254,Julia Adams,Books,Non-Fiction,1,369.37,369.37,Credit Card,Delivered
+2025-01-19,ORD10255,Alice Johnson,Beauty,Foundation,1,59.68,59.68,PayPal,Pending
+2024-12-06,ORD10256,Edward Kim,Clothing,Jeans,2,306.46,612.92,PayPal,Delivered
+2024-10-30,ORD10257,Hannah White,Electronics,Smartwatch,5,167.23,836.15,PayPal,Delivered
+2024-10-23,ORD10258,Diana Lee,Home Appliances,Refrigerator,4,401.7,1606.8,PayPal,Pending
+2025-01-09,ORD10259,Charlie Davis,Beauty,Foundation,4,187.54,750.16,PayPal,Pending
+2025-01-07,ORD10260,Edward Kim,Beauty,Eyeliner,2,463.87,927.74,PayPal,Cancelled
+2024-10-24,ORD10261,Charlie Davis,Books,Comics,3,14.01,42.03,Credit Card,Pending
+2024-12-17,ORD10262,Hannah White,Books,Non-Fiction,1,232.13,232.13,Cash,Cancelled
+2025-01-18,ORD10263,Charlie Davis,Clothing,Jeans,3,273.56,820.68,PayPal,Pending
+2025-01-13,ORD10264,Julia Adams,Beauty,Lipstick,3,187.97,563.91,Credit Card,Delivered
+2024-10-13,ORD10265,Charlie Davis,Books,Comics,1,422.78,422.78,Credit Card,Delivered
+2024-08-31,ORD10266,Edward Kim,Books,Biography,4,247.05,988.2,Credit Card,Delivered
+2025-02-14,ORD10267,Ian Black,Books,Biography,1,282.46,282.46,Credit Card,Delivered
+2024-11-19,ORD10268,Fiona Green,Books,Non-Fiction,4,175.28,701.12,Cash,Delivered
+2024-10-03,ORD10269,Alice Johnson,Books,Biography,5,260.77,1303.85,Credit Card,Delivered
+2024-10-02,ORD10270,Bob Smith,Beauty,Foundation,1,193.21,193.21,Cash,Delivered
+2024-10-06,ORD10271,George Brown,Electronics,Headphones,4,88.45,353.8,Credit Card,Pending
+2025-01-15,ORD10272,Diana Lee,Clothing,Jeans,5,160.11,800.55,Credit Card,Pending
+2024-10-13,ORD10273,Hannah White,Books,Non-Fiction,4,328.58,1314.32,PayPal,Delivered
+2024-09-16,ORD10274,Julia Adams,Home Appliances,Air Fryer,5,479.01,2395.05,Credit Card,Delivered
+2024-09-12,ORD10275,Edward Kim,Books,Comics,5,154.76,773.8,PayPal,Delivered
+2024-10-15,ORD10276,Alice Johnson,Clothing,T-Shirt,5,135.02,675.1,Credit Card,Delivered
+2024-11-27,ORD10277,Alice Johnson,Books,Comics,2,412.12,824.24,Credit Card,Delivered
+2025-01-20,ORD10278,Edward Kim,Electronics,Smartwatch,3,151.84,455.52,Cash,Pending
+2024-12-08,ORD10279,Alice Johnson,Beauty,Perfume,4,415.71,1662.84,Credit Card,Delivered
+2024-10-16,ORD10280,Hannah White,Home Appliances,Vacuum Cleaner,3,79.81,239.43,Credit Card,Delivered
+2024-12-27,ORD10281,Diana Lee,Books,Fiction,1,62.59,62.59,Credit Card,Delivered
+2025-02-21,ORD10282,Ian Black,Books,Comics,3,18.12,54.36,Cash,Delivered
+2024-09-23,ORD10283,Ian Black,Books,Comics,2,225.48,450.96,PayPal,Delivered
+2025-01-16,ORD10284,Alice Johnson,Books,Biography,3,371.26,1113.78,Cash,Delivered
+2025-02-04,ORD10285,Charlie Davis,Books,Fiction,3,294.06,882.18,Credit Card,Delivered
+2025-01-19,ORD10286,Charlie Davis,Home Appliances,Vacuum Cleaner,1,218.43,218.43,PayPal,Delivered
+2025-02-04,ORD10287,Bob Smith,Electronics,Smartphone,1,387.91,387.91,PayPal,Pending
+2024-10-05,ORD10288,Julia Adams,Beauty,Lipstick,5,293.44,1467.2,PayPal,Cancelled
+2024-10-30,ORD10289,Fiona Green,Home Appliances,Microwave,4,241.05,964.2,Credit Card,Delivered
+2025-01-18,ORD10290,Charlie Davis,Books,Biography,5,342.74,1713.7,PayPal,Pending
+2024-10-13,ORD10291,Ian Black,Home Appliances,Air Fryer,1,324.16,324.16,Credit Card,Pending
+2024-11-13,ORD10292,Ian Black,Beauty,Eyeliner,1,435.94,435.94,Cash,Delivered
+2024-12-03,ORD10293,Edward Kim,Home Appliances,Vacuum Cleaner,3,99.51,298.53,PayPal,Delivered
+2024-10-23,ORD10294,Edward Kim,Home Appliances,Vacuum Cleaner,1,334.41,334.41,Credit Card,Delivered
+2024-12-21,ORD10295,Charlie Davis,Electronics,Smartphone,1,93.24,93.24,Credit Card,Pending
+2025-01-20,ORD10296,Alice Johnson,Clothing,Jeans,2,225.77,451.54,PayPal,Delivered
+2024-10-15,ORD10297,Bob Smith,Home Appliances,Microwave,5,329.1,1645.5,Cash,Delivered
+2024-11-06,ORD10298,Charlie Davis,Books,Non-Fiction,2,41.81,83.62,Credit Card,Delivered
+2024-12-17,ORD10299,Fiona Green,Beauty,Lipstick,3,483.83,1451.49,Credit Card,Delivered
+2024-09-09,ORD10300,Charlie Davis,Beauty,Foundation,3,387.76,1163.28,Cash,Cancelled
+2024-10-04,ORD10301,Bob Smith,Beauty,Lipstick,3,293.83,881.49,Credit Card,Delivered
+2024-09-24,ORD10302,Diana Lee,Electronics,Smartphone,3,173.47,520.41,Cash,Delivered
+2024-12-21,ORD10303,Charlie Davis,Home Appliances,Air Fryer,4,311.3,1245.2,PayPal,Cancelled
+2024-09-11,ORD10304,Fiona Green,Books,Fiction,5,335.42,1677.1,PayPal,Delivered
+2024-11-21,ORD10305,Fiona Green,Clothing,Jacket,5,249.43,1247.15,Credit Card,Delivered
+2024-11-28,ORD10306,Alice Johnson,Electronics,Smartphone,4,100.1,400.4,Credit Card,Delivered
+2024-09-07,ORD10307,Hannah White,Books,Biography,4,236.67,946.68,Cash,Delivered
+2024-12-03,ORD10308,Charlie Davis,Home Appliances,Refrigerator,5,415.07,2075.35,PayPal,Delivered
+2024-12-19,ORD10309,Edward Kim,Electronics,Headphones,4,119.11,476.44,PayPal,Cancelled
+2024-12-27,ORD10310,Fiona Green,Clothing,Jeans,4,381.09,1524.36,Credit Card,Delivered
+2024-11-30,ORD10311,George Brown,Electronics,Laptop,1,483.06,483.06,Cash,Cancelled
+2025-02-26,ORD10312,Alice Johnson,Beauty,Eyeliner,4,285.96,1143.84,Credit Card,Delivered
+2024-12-20,ORD10313,Edward Kim,Electronics,Headphones,5,270.32,1351.6,PayPal,Delivered
+2024-12-08,ORD10314,Ian Black,Clothing,Sneakers,3,488.12,1464.36,PayPal,Pending
+2025-01-05,ORD10315,Ian Black,Books,Biography,4,122.54,490.16,PayPal,Delivered
+2024-09-20,ORD10316,Fiona Green,Beauty,Perfume,4,414.02,1656.08,PayPal,Delivered
+2024-12-31,ORD10317,Diana Lee,Beauty,Lipstick,1,280.33,280.33,PayPal,Pending
+2025-01-16,ORD10318,Julia Adams,Books,Non-Fiction,5,112.36,561.8,Cash,Delivered
+2024-12-25,ORD10319,Charlie Davis,Books,Fiction,1,31.24,31.24,Cash,Delivered
+2025-01-30,ORD10320,Diana Lee,Books,Biography,2,353.39,706.78,PayPal,Delivered
+2025-01-15,ORD10321,Edward Kim,Beauty,Perfume,4,17.8,71.2,Credit Card,Pending
+2024-09-27,ORD10322,Edward Kim,Beauty,Perfume,3,221.04,663.12,PayPal,Delivered
+2025-02-23,ORD10323,Ian Black,Beauty,Lipstick,5,151.14,755.7,Cash,Delivered
+2024-09-09,ORD10324,Ian Black,Home Appliances,Air Fryer,1,67.91,67.91,Cash,Delivered
+2025-01-21,ORD10325,Hannah White,Beauty,Lipstick,3,379.06,1137.18,Credit Card,Delivered
+2025-01-20,ORD10326,George Brown,Books,Comics,3,199.05,597.15,Cash,Delivered
+2025-02-04,ORD10327,Alice Johnson,Beauty,Eyeliner,4,130.35,521.4,Cash,Delivered
+2025-02-22,ORD10328,Diana Lee,Books,Biography,2,397.33,794.66,PayPal,Delivered
+2024-11-04,ORD10329,Edward Kim,Home Appliances,Refrigerator,2,12.54,25.08,Credit Card,Delivered
+2024-10-17,ORD10330,Edward Kim,Clothing,Sneakers,5,305.46,1527.3,Credit Card,Delivered
+2025-02-12,ORD10331,George Brown,Books,Non-Fiction,3,213.14,639.42,Cash,Delivered
+2025-01-13,ORD10332,Ian Black,Home Appliances,Refrigerator,5,354.55,1772.75,Credit Card,Cancelled
+2024-09-01,ORD10333,Edward Kim,Beauty,Perfume,5,479.8,2399,PayPal,Delivered
+2024-11-23,ORD10334,Fiona Green,Home Appliances,Vacuum Cleaner,2,132.17,264.34,PayPal,Delivered
+2024-11-19,ORD10335,George Brown,Beauty,Lipstick,5,65.24,326.2,Cash,Delivered
+2024-12-22,ORD10336,Ian Black,Electronics,Smartphone,4,251.1,1004.4,Cash,Delivered
+2024-09-20,ORD10337,Diana Lee,Beauty,Foundation,1,29.39,29.39,Cash,Pending
+2024-10-19,ORD10338,Diana Lee,Books,Non-Fiction,3,213.28,639.84,Cash,Delivered
+2025-02-15,ORD10339,Julia Adams,Beauty,Foundation,5,251.15,1255.75,Cash,Delivered
+2025-02-17,ORD10340,Julia Adams,Electronics,Laptop,5,93.54,467.7,Credit Card,Cancelled
+2025-01-09,ORD10341,Ian Black,Electronics,Smartphone,1,396.09,396.09,PayPal,Cancelled
+2024-12-29,ORD10342,Bob Smith,Clothing,Sneakers,4,224.15,896.6,PayPal,Delivered
+2024-10-27,ORD10343,George Brown,Books,Biography,5,257.86,1289.3,PayPal,Pending
+2024-10-05,ORD10344,George Brown,Electronics,Smartphone,2,15.14,30.28,PayPal,Pending
+2024-10-29,ORD10345,Edward Kim,Home Appliances,Refrigerator,2,391.55,783.1,Cash,Pending
+2025-01-17,ORD10346,Fiona Green,Electronics,Smartphone,4,75.05,300.2,Cash,Delivered
+2024-11-15,ORD10347,George Brown,Home Appliances,Vacuum Cleaner,1,191.73,191.73,PayPal,Pending
+2025-01-31,ORD10348,Alice Johnson,Beauty,Foundation,3,307.13,921.39,Credit Card,Delivered
+2024-11-02,ORD10349,George Brown,Home Appliances,Refrigerator,2,330.95,661.9,Cash,Delivered
+2024-12-14,ORD10350,Edward Kim,Electronics,Smartphone,4,62.28,249.12,Credit Card,Delivered
+2024-09-18,ORD10351,Hannah White,Clothing,T-Shirt,2,296.38,592.76,Credit Card,Delivered
+2024-12-30,ORD10352,Julia Adams,Clothing,T-Shirt,2,355.86,711.72,PayPal,Delivered
+2024-10-09,ORD10353,George Brown,Books,Fiction,4,259.64,1038.56,Credit Card,Delivered
+2025-01-02,ORD10354,Charlie Davis,Home Appliances,Refrigerator,4,81.81,327.24,Cash,Delivered
+2024-08-31,ORD10355,George Brown,Electronics,Headphones,1,436.24,436.24,Cash,Delivered
+2024-11-30,ORD10356,Fiona Green,Beauty,Perfume,3,165.86,497.58,Credit Card,Delivered
+2024-09-01,ORD10357,George Brown,Home Appliances,Vacuum Cleaner,2,12.2,24.4,Cash,Delivered
+2024-08-30,ORD10358,Charlie Davis,Beauty,Lipstick,1,65.82,65.82,PayPal,Pending
+2024-11-10,ORD10359,Diana Lee,Electronics,Laptop,2,419.24,838.48,PayPal,Pending
+2024-10-04,ORD10360,Hannah White,Electronics,Smartphone,1,183.25,183.25,PayPal,Cancelled
+2024-10-11,ORD10361,Bob Smith,Home Appliances,Air Fryer,4,432.14,1728.56,Cash,Delivered
+2024-11-10,ORD10362,Alice Johnson,Beauty,Perfume,5,38.49,192.45,PayPal,Delivered
+2024-12-02,ORD10363,Julia Adams,Beauty,Foundation,4,390,1560,Credit Card,Delivered
+2024-09-05,ORD10364,Bob Smith,Electronics,Laptop,4,443.82,1775.28,Credit Card,Delivered
+2024-12-19,ORD10365,Charlie Davis,Home Appliances,Microwave,2,399.4,798.8,PayPal,Pending
+2025-01-05,ORD10366,Fiona Green,Electronics,Smartphone,3,447.75,1343.25,Cash,Delivered
+2024-11-04,ORD10367,Fiona Green,Home Appliances,Microwave,5,129.74,648.7,Credit Card,Pending
+2024-12-31,ORD10368,Charlie Davis,Books,Comics,4,83.93,335.72,Cash,Delivered
+2024-09-26,ORD10369,Hannah White,Beauty,Perfume,1,266.7,266.7,Credit Card,Delivered
+2024-11-20,ORD10370,Charlie Davis,Beauty,Lipstick,5,218.49,1092.45,PayPal,Delivered
+2025-02-06,ORD10371,Julia Adams,Books,Comics,2,10.19,20.38,Credit Card,Delivered
+2024-12-31,ORD10372,George Brown,Electronics,Smartwatch,3,491.17,1473.51,PayPal,Delivered
+2024-12-11,ORD10373,Julia Adams,Clothing,Sneakers,3,78.1,234.3,PayPal,Pending
+2024-11-10,ORD10374,Diana Lee,Home Appliances,Air Fryer,3,12.14,36.42,Credit Card,Cancelled
+2024-12-17,ORD10375,Alice Johnson,Home Appliances,Refrigerator,3,214.04,642.12,PayPal,Delivered
+2025-02-13,ORD10376,Ian Black,Beauty,Perfume,4,151.88,607.52,PayPal,Pending
+2024-10-29,ORD10377,Ian Black,Books,Comics,2,73.15,146.3,Credit Card,Delivered
+2024-09-08,ORD10378,Edward Kim,Beauty,Foundation,3,426.04,1278.12,PayPal,Delivered
+2024-08-31,ORD10379,Julia Adams,Beauty,Lipstick,2,469.45,938.9,Cash,Cancelled
+2024-12-28,ORD10380,Bob Smith,Clothing,Jeans,2,247.12,494.24,Credit Card,Pending
+2024-12-25,ORD10381,Edward Kim,Books,Comics,5,262.99,1314.95,Credit Card,Pending
+2024-11-18,ORD10382,George Brown,Books,Fiction,2,49.61,99.22,PayPal,Delivered
+2024-10-26,ORD10383,George Brown,Beauty,Lipstick,2,359.92,719.84,Credit Card,Delivered
+2025-01-05,ORD10384,Edward Kim,Electronics,Smartwatch,3,172.02,516.06,PayPal,Delivered
+2025-01-10,ORD10385,Diana Lee,Beauty,Perfume,1,26.75,26.75,Cash,Delivered
+2025-01-02,ORD10386,Bob Smith,Home Appliances,Air Fryer,2,387.59,775.18,Cash,Cancelled
+2024-11-04,ORD10387,Diana Lee,Books,Comics,4,276.12,1104.48,Credit Card,Delivered
+2024-09-21,ORD10388,Julia Adams,Home Appliances,Vacuum Cleaner,3,163.97,491.91,Credit Card,Delivered
+2024-12-26,ORD10389,Julia Adams,Books,Fiction,3,339.57,1018.71,Credit Card,Delivered
+2024-09-06,ORD10390,Fiona Green,Beauty,Lipstick,1,353.83,353.83,Credit Card,Cancelled
+2025-01-29,ORD10391,George Brown,Electronics,Laptop,5,192.34,961.7,Credit Card,Cancelled
+2024-11-27,ORD10392,Alice Johnson,Books,Comics,1,158.33,158.33,PayPal,Delivered
+2025-02-07,ORD10393,Charlie Davis,Books,Comics,5,359.55,1797.75,Cash,Delivered
+2025-02-10,ORD10394,Edward Kim,Beauty,Lipstick,3,118.54,355.62,Cash,Delivered
+2024-11-26,ORD10395,Bob Smith,Beauty,Eyeliner,1,257.87,257.87,PayPal,Delivered
+2025-01-26,ORD10396,Edward Kim,Books,Biography,3,54.48,163.44,Cash,Pending
+2024-09-16,ORD10397,Hannah White,Clothing,T-Shirt,2,95.84,191.68,Cash,Delivered
+2024-11-28,ORD10398,Ian Black,Books,Non-Fiction,4,227.34,909.36,PayPal,Delivered
+2025-01-24,ORD10399,Ian Black,Home Appliances,Vacuum Cleaner,4,336.45,1345.8,Credit Card,Delivered
+2025-02-12,ORD10400,Edward Kim,Beauty,Perfume,2,430.53,861.06,Credit Card,Pending
+2024-11-18,ORD10401,George Brown,Beauty,Lipstick,1,471.41,471.41,PayPal,Delivered
+2024-10-09,ORD10402,Julia Adams,Electronics,Smartphone,5,221.03,1105.15,PayPal,Delivered
+2024-11-07,ORD10403,George Brown,Electronics,Headphones,3,240.29,720.87,Credit Card,Delivered
+2024-11-14,ORD10404,Hannah White,Books,Non-Fiction,1,420.82,420.82,PayPal,Delivered
+2025-01-26,ORD10405,Ian Black,Electronics,Smartphone,3,444.17,1332.51,Credit Card,Delivered
+2024-11-01,ORD10406,Julia Adams,Beauty,Eyeliner,3,356.19,1068.57,Cash,Pending
+2024-12-02,ORD10407,Alice Johnson,Clothing,T-Shirt,5,224.18,1120.9,PayPal,Delivered
+2025-02-24,ORD10408,Ian Black,Home Appliances,Refrigerator,2,145.32,290.64,Cash,Pending
+2025-02-11,ORD10409,Hannah White,Beauty,Foundation,3,32.72,98.16,PayPal,Delivered
+2025-01-15,ORD10410,Fiona Green,Home Appliances,Vacuum Cleaner,2,447.72,895.44,Credit Card,Delivered
+2024-12-13,ORD10411,Diana Lee,Electronics,Headphones,3,348.4,1045.2,Cash,Delivered
+2024-12-06,ORD10412,Bob Smith,Books,Biography,2,345.58,691.16,PayPal,Delivered
+2024-11-22,ORD10413,Hannah White,Clothing,Jeans,3,391.1,1173.3,Credit Card,Pending
+2024-09-28,ORD10414,Hannah White,Electronics,Smartwatch,2,272.19,544.38,Cash,Delivered
+2024-10-05,ORD10415,Julia Adams,Books,Comics,5,146.4,732,Cash,Delivered
+2024-10-02,ORD10416,Bob Smith,Home Appliances,Air Fryer,5,202.97,1014.85,Cash,Delivered
+2025-02-11,ORD10417,Julia Adams,Electronics,Headphones,1,479.95,479.95,Credit Card,Delivered
+2024-09-29,ORD10418,Bob Smith,Beauty,Perfume,3,120.1,360.3,PayPal,Delivered
+2024-11-09,ORD10419,Ian Black,Books,Non-Fiction,3,197.15,591.45,Cash,Delivered
+2024-08-30,ORD10420,Diana Lee,Beauty,Lipstick,1,338.34,338.34,Credit Card,Delivered
+2025-01-24,ORD10421,Hannah White,Clothing,Sneakers,5,168.19,840.95,PayPal,Delivered
+2024-09-21,ORD10422,Edward Kim,Electronics,Smartwatch,1,442.32,442.32,Cash,Delivered
+2024-11-23,ORD10423,Charlie Davis,Beauty,Eyeliner,3,375.79,1127.37,Credit Card,Cancelled
+2025-01-19,ORD10424,Bob Smith,Books,Comics,4,266.94,1067.76,Cash,Pending
+2024-10-05,ORD10425,Hannah White,Home Appliances,Vacuum Cleaner,5,74.32,371.6,Credit Card,Delivered
+2024-09-11,ORD10426,Bob Smith,Clothing,Jeans,5,38.28,191.4,PayPal,Delivered
+2024-10-09,ORD10427,Julia Adams,Clothing,Jacket,1,119.64,119.64,Cash,Delivered
+2025-01-12,ORD10428,Diana Lee,Clothing,T-Shirt,4,58.02,232.08,Credit Card,Delivered
+2024-12-27,ORD10429,Bob Smith,Home Appliances,Air Fryer,5,419.44,2097.2,Cash,Delivered
+2024-10-14,ORD10430,Julia Adams,Home Appliances,Refrigerator,4,478.09,1912.36,Cash,Delivered
+2024-11-03,ORD10431,Edward Kim,Home Appliances,Vacuum Cleaner,5,267.18,1335.9,PayPal,Delivered
+2024-10-10,ORD10432,Charlie Davis,Books,Comics,4,79.76,319.04,Cash,Delivered
+2024-10-12,ORD10433,Alice Johnson,Books,Fiction,5,289.38,1446.9,Cash,Delivered
+2024-09-09,ORD10434,Alice Johnson,Beauty,Eyeliner,2,124.34,248.68,PayPal,Delivered
+2025-02-14,ORD10435,Julia Adams,Books,Fiction,3,56.33,168.99,Cash,Pending
+2024-12-18,ORD10436,George Brown,Books,Comics,3,397.24,1191.72,Cash,Delivered
+2024-12-25,ORD10437,Hannah White,Beauty,Perfume,2,187.64,375.28,PayPal,Pending
+2024-10-10,ORD10438,Diana Lee,Electronics,Laptop,3,340.23,1020.69,PayPal,Delivered
+2024-11-20,ORD10439,Edward Kim,Electronics,Laptop,1,403.09,403.09,PayPal,Pending
+2025-01-26,ORD10440,Julia Adams,Electronics,Smartwatch,1,315.59,315.59,PayPal,Delivered
+2025-01-02,ORD10441,Edward Kim,Books,Biography,3,273.44,820.32,PayPal,Delivered
+2025-02-09,ORD10442,Ian Black,Home Appliances,Refrigerator,2,429.85,859.7,PayPal,Delivered
+2024-11-07,ORD10443,George Brown,Home Appliances,Refrigerator,1,342.04,342.04,Credit Card,Pending
+2024-12-07,ORD10444,Hannah White,Beauty,Lipstick,4,19.37,77.48,PayPal,Pending
+2024-09-02,ORD10445,Julia Adams,Clothing,Jacket,1,259.45,259.45,PayPal,Delivered
+2024-12-20,ORD10446,George Brown,Clothing,T-Shirt,2,264.24,528.48,Credit Card,Delivered
+2024-12-29,ORD10447,Edward Kim,Books,Non-Fiction,1,450.52,450.52,Credit Card,Pending
+2024-12-04,ORD10448,Edward Kim,Beauty,Foundation,3,169.33,507.99,Cash,Delivered
+2024-12-17,ORD10449,Ian Black,Books,Comics,1,279.19,279.19,PayPal,Delivered
+2025-01-15,ORD10450,Charlie Davis,Electronics,Laptop,3,22.17,66.51,Cash,Delivered
+2024-10-07,ORD10451,Edward Kim,Home Appliances,Air Fryer,4,94.52,378.08,Cash,Pending
+2025-01-26,ORD10452,Edward Kim,Books,Fiction,1,440.35,440.35,PayPal,Cancelled
+2024-10-31,ORD10453,Fiona Green,Home Appliances,Microwave,4,395.53,1582.12,Credit Card,Cancelled
+2024-12-15,ORD10454,Alice Johnson,Books,Biography,5,184.88,924.4,Cash,Delivered
+2024-08-30,ORD10455,Julia Adams,Clothing,T-Shirt,2,40.2,80.4,Cash,Delivered
+2024-09-26,ORD10456,Julia Adams,Electronics,Headphones,1,86.79,86.79,Credit Card,Delivered
+2024-09-09,ORD10457,Diana Lee,Books,Comics,2,219.98,439.96,PayPal,Delivered
+2024-11-15,ORD10458,Charlie Davis,Clothing,Jacket,3,483.03,1449.09,PayPal,Delivered
+2024-09-30,ORD10459,Bob Smith,Beauty,Eyeliner,2,495.66,991.32,Cash,Delivered
+2024-12-25,ORD10460,Edward Kim,Beauty,Foundation,2,408.42,816.84,PayPal,Delivered
+2024-12-11,ORD10461,Alice Johnson,Beauty,Eyeliner,3,481.13,1443.39,Cash,Pending
+2025-02-23,ORD10462,Bob Smith,Home Appliances,Microwave,3,192.25,576.75,Cash,Delivered
+2024-12-14,ORD10463,Charlie Davis,Books,Non-Fiction,4,261.06,1044.24,PayPal,Delivered
+2024-10-11,ORD10464,Edward Kim,Books,Comics,5,50.26,251.3,Cash,Delivered
+2024-12-27,ORD10465,Fiona Green,Books,Comics,4,171.2,684.8,Cash,Cancelled
+2024-09-05,ORD10466,Hannah White,Books,Fiction,2,279.93,559.86,Cash,Delivered
+2025-02-05,ORD10467,Bob Smith,Beauty,Lipstick,4,201.83,807.32,Credit Card,Pending
+2024-12-14,ORD10468,Diana Lee,Home Appliances,Refrigerator,2,294.51,589.02,Cash,Delivered
+2024-09-02,ORD10469,Diana Lee,Clothing,Sneakers,2,316.56,633.12,Credit Card,Delivered
+2025-02-14,ORD10470,Julia Adams,Books,Biography,5,20.73,103.65,Cash,Delivered
+2024-12-08,ORD10471,Fiona Green,Electronics,Laptop,3,336.63,1009.89,Cash,Delivered
+2024-10-26,ORD10472,Julia Adams,Electronics,Laptop,5,185.69,928.45,Credit Card,Delivered
+2024-10-19,ORD10473,Fiona Green,Electronics,Smartwatch,4,324.75,1299,PayPal,Delivered
+2024-09-10,ORD10474,Charlie Davis,Clothing,Jeans,1,192.31,192.31,PayPal,Pending
+2025-02-02,ORD10475,Bob Smith,Books,Comics,4,169.36,677.44,PayPal,Delivered
+2025-02-10,ORD10476,Fiona Green,Books,Biography,3,172.86,518.58,Cash,Delivered
+2024-10-06,ORD10477,Edward Kim,Clothing,Sneakers,3,86.12,258.36,Credit Card,Pending
+2024-09-26,ORD10478,Hannah White,Electronics,Smartwatch,5,100.06,500.3,Credit Card,Pending
+2024-10-28,ORD10479,Diana Lee,Beauty,Perfume,1,177.11,177.11,PayPal,Delivered
+2024-12-12,ORD10480,George Brown,Beauty,Eyeliner,1,13.57,13.57,PayPal,Delivered
+2024-11-25,ORD10481,Charlie Davis,Clothing,T-Shirt,4,408.73,1634.92,Cash,Delivered
+2025-01-05,ORD10482,Hannah White,Clothing,T-Shirt,3,412.62,1237.86,PayPal,Delivered
+2024-12-31,ORD10483,Charlie Davis,Home Appliances,Air Fryer,4,319.16,1276.64,Cash,Delivered
+2024-10-08,ORD10484,Hannah White,Beauty,Foundation,4,369.25,1477,PayPal,Delivered
+2024-10-08,ORD10485,Diana Lee,Home Appliances,Vacuum Cleaner,4,266.56,1066.24,Cash,Delivered
+2024-10-26,ORD10486,George Brown,Books,Biography,1,210.83,210.83,Credit Card,Cancelled
+2024-12-07,ORD10487,Julia Adams,Home Appliances,Vacuum Cleaner,4,463.67,1854.68,Credit Card,Delivered
+2024-11-13,ORD10488,Edward Kim,Books,Comics,2,476.98,953.96,Credit Card,Cancelled
+2024-11-11,ORD10489,Diana Lee,Beauty,Foundation,3,325.9,977.7,Cash,Delivered
+2024-09-28,ORD10490,Ian Black,Electronics,Smartphone,2,232.62,465.24,Credit Card,Delivered
+2025-02-07,ORD10491,Edward Kim,Home Appliances,Refrigerator,5,100.1,500.5,Cash,Pending
+2024-11-07,ORD10492,Hannah White,Electronics,Smartphone,2,35.93,71.86,PayPal,Delivered
+2024-12-07,ORD10493,Edward Kim,Books,Fiction,5,401.91,2009.55,Credit Card,Delivered
+2024-12-24,ORD10494,Charlie Davis,Beauty,Lipstick,4,400.9,1603.6,Cash,Pending
+2024-09-24,ORD10495,Alice Johnson,Clothing,Jeans,5,154.06,770.3,Cash,Pending
+2024-11-26,ORD10496,Ian Black,Clothing,Sneakers,3,192.07,576.21,Cash,Delivered
+2024-11-15,ORD10497,Hannah White,Home Appliances,Vacuum Cleaner,3,401.57,1204.71,Credit Card,Delivered
+2025-01-08,ORD10498,Bob Smith,Books,Non-Fiction,5,488.35,2441.75,Credit Card,Delivered
+2024-09-01,ORD10499,Edward Kim,Books,Non-Fiction,5,203.46,1017.3,PayPal,Delivered
